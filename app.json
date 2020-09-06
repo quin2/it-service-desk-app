@@ -3,7 +3,6 @@
     "name": "Service Desk",
     "slug": "itApp",
     "privacy": "public",
-    "sdkVersion": "34.0.0",
     "platforms": [
       "ios",
       "android",
@@ -26,7 +25,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "extra":{
+    "extra": {
       "consumerToken": "FiPcwwabgPJdC918w0cT3oFd5",
       "consumerTokenSecret": "Ra4xzDxU7tUtTz1nqXHUUpeQRYoaUUriv0mMTYB2lTvDYOGyUM"
     }
